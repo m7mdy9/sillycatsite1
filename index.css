@@ -1,0 +1,71 @@
+html {
+    background-color: #c089e4;
+}
+.header1{
+    text-align: center;
+    color: white;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+.header3{
+    font-size: large;
+    text-align: center;
+    color: white;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    font-style: italic;
+}
+.header4{
+    font-size: large;
+    text-align: center;
+    color: white;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    font-style: italic;
+}
+.class1{
+    margin: 0 auto;
+    width: 450px;
+    height: auto;
+    background-color: purple;
+}
+.p1{
+    padding: 10px;
+    color: white;
+    font-style: bold;
+}
+.image1{
+    display: block;
+    margin: 0 auto;
+    /* height: 300px;
+    width: 80%; */
+}
+.div2{
+    width: auto;
+    text-align: center;
+    display: block;
+}
+.image2{
+    display: inline;
+    height: 300px;
+    left: 50px;
+}
+.image3{
+    display: inline;
+    height: 300px;
+    right: 50px;
+}
+.div3{
+    margin: 0 auto;
+    width: 250px;
+    color: #c089e4;
+    font-size: larger;
+}
+.div3:hover{
+    color:white
+}
+.link1{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color:white;
+    font-style: italic;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
